@@ -32,7 +32,7 @@ FIRST:
 * Open index.html in your browser.
 
 SECOND: 
-* Click this link for watch website on Netlify: 
+* Click this link for watch website on Netlify: https://62701bd47885de037cc2a67f--benevolent-churros-b29734.netlify.app/
 
 ## Collaboration
 * No collaboration
