@@ -24,10 +24,15 @@ Project created with:
 * JavaScript
 
 ## Installation
-To run this project:
+To run this project, you have two choiches:
+
+FIRST:
 * Clone this repository to your desktop.
 * Navigate to the top level of the directory.
 * Open index.html in your browser.
+
+SECOND: 
+* Click this link for watch website on Netlify: 
 
 ## Collaboration
 * No collaboration
